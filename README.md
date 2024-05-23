@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I’m @datsculptor
 Welcome to my GitHub profile! I’m a software engineer and data scientist passionate about leveraging technology and data to create impactful solutions.
-
+---
 ## 👀 I’m interested in ...
 - Machine Learning and Artificial Intelligence
 - Data Analysis and Visualization
